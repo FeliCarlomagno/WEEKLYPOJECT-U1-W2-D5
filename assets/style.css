@@ -15,10 +15,10 @@ header img {
 }
 
 nav {
-  height: 2em;
+  height: 4em;
   background-color: #364759;
   color: white;
-  margin-top: 0.5em;
+  padding-top: 0.7em;
 }
 
 nav span {
@@ -204,14 +204,14 @@ footer {
 }
 
 .a-container {
-  height: 3em;
+  height: 2em;
   background-color: #364759;
+  padding-top: 0.5em;
 }
 
 .a-container a {
   color: white;
   font-size: 1.5em;
-  padding-top: 1em;
 }
 
 footer img {
